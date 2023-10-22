@@ -1,7 +1,7 @@
 # Airtrails-SQL-Queries
 SQL tool for travel agency's flight search. Manages routes, airport codes, flight schedules, and ticketing. Features algorithms for route generation and promotions. Error-resilient: from table recovery to server overload checks.
 
-**Functionality:**
+<h2>Functionality:</h2>
 
 <b>Adding New Routes:</b>
 <p>Handles the addition of new air routes between airports in different cities, with full safeguards against errors such as intra-city routes. </p>
@@ -18,7 +18,7 @@ SQL tool for travel agency's flight search. Manages routes, airport codes, fligh
 
 <b>Handling Multiple Promotions:</b> <p>Ability to handle multiple promotions for various routes simultaneously.Safeguards: Handling errors related to server overload, especially when many people are trying to purchase tickets at the same time. 
 
-**Installation Instructions:**
+<h2>Installation Instructions:</h2>
 
 In addition to the scripts provided in the repository, users should acquaint themselves with the system requirements and configuration of the environment in which the database will be deployed.
 

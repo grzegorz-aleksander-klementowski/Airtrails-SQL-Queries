@@ -1,5 +1,5 @@
 # Airtrails-SQL-Queries
-SQL tool for travel agency's flight search. Manages routes, airport codes, flight schedules, and ticketing. Features algorithms for route generation and promotions. Error-resilient: from table recovery to server overload checks.
+SQL tool written in Microsoft SQL Server for travel agency's flight search. Manages routes, airport codes, flight schedules, and ticketing. Features algorithms for route generation and promotions. Error-resilient: from table recovery to server overload checks.
 
 <h2>Functionality:</h2>
 
@@ -22,7 +22,7 @@ SQL tool for travel agency's flight search. Manages routes, airport codes, fligh
 
 In addition to the scripts provided in the repository, users should acquaint themselves with the system requirements and configuration of the environment in which the database will be deployed.
 
-<p>Ensure you have the appropriate environment for running SQL scripts.
+<p>Ensure you have Microsoft SQL Server or appropriate environment for running SQL scripts.
     Clone the repository or download the files.
     Execute the scripts in the proper sequence (as instructed in the code or in a separate file).
     Confirm that all tables and procedures are correctly created.
